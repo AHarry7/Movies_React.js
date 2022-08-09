@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 After creation, your project should look like this:
 
-my-app/
+  my-app/
   README.md
   node_modules/
   package.json
