@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 After creation, your project should look like this:
 
+```
   my-app/
   README.md
   node_modules/
@@ -20,6 +21,7 @@ After creation, your project should look like this:
     index.css
     index.js
     logo.svg
+```
 
 ## Available Scripts
 
